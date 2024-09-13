@@ -153,7 +153,7 @@ def main():
     print(F + "■" * 67)
 
     global TOKEN
-    TOKEN = '7545599113:AAGEdLMMVtNx0qdyVicGvnv-M9dIaCG8Biw'  # Your bot token
+    TOKEN = '7360221164:AAFhFK1zzzYqp3GWBuTAtWMR4L-BknssFcM'  # Your bot token
 
     bot = telebot.TeleBot(TOKEN)
 
