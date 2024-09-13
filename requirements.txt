@@ -9,6 +9,7 @@ fernet
 getuseragent
 h11
 httpcore
+httpx tenacity
 httpx
 idna
 markdown-it-py
